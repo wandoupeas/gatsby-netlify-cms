@@ -10,5 +10,8 @@ menuItems:
   - label: past meetups
     linkType: internal
     linkURL: /meetups
+  - label: PRODUCTS
+    linkType: external
+    linkURL: ./products
 ---
 
